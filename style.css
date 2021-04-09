@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+p {
+    background-color: ;
+}
+
+.header {
+    background-color: aqua;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.about {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color:goldenrod;
+    height: 70px;
+    text-align: center;
+
+}
+
+.food-images {
+    margin-top: 20px;
+}
+
+
+footer {
+    margin-top: 10px;
+    background-color: orange;
+    height: 200px;
